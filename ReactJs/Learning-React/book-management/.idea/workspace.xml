@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff9d9984-ed87-41d7-8aeb-8273bacc0bbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Cloning/REST-API-CRUD-JQuery-Ajax/REST-API-CRUD-JQuery-Ajax/.idea/REST-API-CRUD-JQuery-Ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/.idea/Codegym-Module-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/configuration/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/configuration/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/configuration/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/controller/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/entity/model/request/AuthenticationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/entity/model/request/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/entity/model/response/AuthenticationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/entity/user/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/entity/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/TheProjects/SecuritySpringBoot3/src/main/java/com/trunghuynh/securityspringboot3/service/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/lesson-02/Ex05.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/source/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/source/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/source/.idea/source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/source/practice-01-typescript-variable/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/source/practice-01-typescript-variable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/source/practice-01-typescript-variable/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codegym-Module-05/source/practice-01-typescript-variable/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/ReactJs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/BookAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/CurrentAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BookAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BookDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BookEdit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BookList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BookList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LearningRedux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constant/AppConstant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../f8/ex-49/two-way-binding/src/components/CheckUndefined.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../f8/ex-49/two-way-binding/src/components/ComponentLifeCycle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../f8/ex-49/two-way-binding/src/components/Football.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../f8/ex-49/two-way-binding/src/components/GetSuspect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../f8/ex-49/two-way-binding/src/components/LearningEventHandling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../f8/ex-49/two-way-binding/src/components/LearningState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-redux-saga/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-redux-saga/src/components/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-redux-saga/src/redux/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-redux-saga/src/redux/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-redux-saga/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-redux-saga/src/saga/userSaga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/lesson-5-react-form-and-router/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/lesson-5-react-form-and-router/src/components/LoginWithFormik.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/lesson-5-react-form-and-router/src/components/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/lesson-5-react-form-and-router/src/components/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/modified-hook/src/components/Boostrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/modified-hook/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/modified-hook/src/components/Lesson47.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/modified-hook/src/components/Lesson52.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/modified-hook/src/components/Router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/modified-hook/src/components/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modified-hook/modified-hook/src/components/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice-hook/src/components/Clock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice-hook/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice-hook/src/components/MyClock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice-hook/src/components/Selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice-hook/src/hooks/useClock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/.idea/webpack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/actstream-project/public/Favicon.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/actstream-project/src/assets/scss/test.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/actstream-project/src/components/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/actstream-project/src/layouts/commons/main/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/actstream-project/src/layouts/commons/main/SideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/my-app/src/components/commons/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/my-app/src/components/commons/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/my-app/src/routes/AppRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/my-app/src/routes/AuthRoutes.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VL8zasablv62CKxfXzwJIgZz0c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Lesson/ReactJs/project/my-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff9d9984-ed87-41d7-8aeb-8273bacc0bbb" name="Changes" comment="" />
+      <created>1694604262648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694604262648</updated>
+      <workItem from="1694604264482" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
