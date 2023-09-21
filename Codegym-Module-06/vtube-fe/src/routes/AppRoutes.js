@@ -1,5 +1,0 @@
-function AppRoutes(){
-    return{
-
-    }
-}
